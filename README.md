@@ -1,4 +1,4 @@
-# books_sqlite_database
+# kiki's "books_sqlite_database"
 Using Python to track my books with SQlite
 
 ## Features
